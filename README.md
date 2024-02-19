@@ -10,4 +10,10 @@
 
 ## Compleated
 
-- 
+- Setup neovim for my git commit messages.
+- Created a website that was readable and allowed for multiple Recipes
+- Created and learned workflow
+
+## TBD
+
+- Come back one CSS is learned and create something more creative.
