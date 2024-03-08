@@ -13,7 +13,6 @@
 - Setup neovim for my git commit messages.
 - Created a website that was readable and allowed for multiple Recipes
 - Created and learned workflow
+- Added CSS to my liking
 
-## TBD
-
-- Come back one CSS is learned and create something more creative.
+This Project is now complete for the time being!
